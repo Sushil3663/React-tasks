@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: rgb(235, 216, 235);
+}
+h1 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 250px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  background-color: blue;
+  width: 100px;
+  height: 50px;
+  font-weight: bold;
+}
